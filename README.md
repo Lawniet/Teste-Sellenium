@@ -7,7 +7,7 @@
 
 # Assignment: Teste Sellenium
 Projeto em Java com integração de testes BDD com Selenium Webdriver e Cucumber, utilizando Page Objects e executando scripts através de features para realizar 
-teste automáticos no site http://sampleapp.tricentis.com/101/app.php.
+teste automáticos no site https://vendas-aula.herokuapp.com/.
 
 ## :rocket: DETALHAMENTO TÉCNICO
 
